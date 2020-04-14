@@ -17,6 +17,7 @@ namespace Dranken
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
+    /// By BereKanters
     /// </summary>
     public partial class MainWindow : Window
     {
